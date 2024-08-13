@@ -1,4 +1,4 @@
---@version 1.0.1
+--@version 1.0.2
 --@provides 
 --  [main] file1.lua
 --  [main] file2.lua
