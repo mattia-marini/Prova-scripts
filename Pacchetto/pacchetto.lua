@@ -2,3 +2,5 @@
 --@provides 
 --  [main] file1.lua
 --  [main] file2.lua
+--@about
+--  prova di un about
