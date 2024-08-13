@@ -1,1 +1,4 @@
-print("asssole")
+--@version 1.0
+--@provides 
+--  [main] file1.lua
+--  [main] file2.lua
