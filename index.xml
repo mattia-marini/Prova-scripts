@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="FooBar Scripts" commit="e98d004d3d93a682eda94f39da0746a004dcae8c">
+<index version="1" name="FooBar Scripts" commit="ef63bb30a18bb01865c52ce3985e7196fdf57a02">
   <category name="Pacchetto">
     <reapack name="pacchetto.lua" type="script">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 prova di un about\par}
+}
+]]></description>
+      </metadata>
       <version name="1.0" time="2024-08-13T10:00:48Z">
         <source main="main">https://github.com/mattia-marini/Prova-scripts/raw/8838484ead9476f23d961558850c6ec9cdd57347/Pacchetto/pacchetto.lua</source>
         <source main="main" file="file1.lua">https://github.com/mattia-marini/Prova-scripts/raw/8838484ead9476f23d961558850c6ec9cdd57347/Pacchetto/file1.lua</source>
@@ -13,9 +22,9 @@
         <source main="main" file="file2.lua">https://github.com/mattia-marini/Prova-scripts/raw/5967c315694a11c8bddf79d4322aadeb1784e589/Pacchetto/file2.lua</source>
       </version>
       <version name="1.0.2" time="2024-08-13T10:10:36Z">
-        <source main="main">https://github.com/mattia-marini/Prova-scripts/raw/e98d004d3d93a682eda94f39da0746a004dcae8c/Pacchetto/pacchetto.lua</source>
-        <source main="main" file="file1.lua">https://github.com/mattia-marini/Prova-scripts/raw/e98d004d3d93a682eda94f39da0746a004dcae8c/Pacchetto/file1.lua</source>
-        <source main="main" file="file2.lua">https://github.com/mattia-marini/Prova-scripts/raw/e98d004d3d93a682eda94f39da0746a004dcae8c/Pacchetto/file2.lua</source>
+        <source main="main">https://github.com/mattia-marini/Prova-scripts/raw/ef63bb30a18bb01865c52ce3985e7196fdf57a02/Pacchetto/pacchetto.lua</source>
+        <source main="main" file="file1.lua">https://github.com/mattia-marini/Prova-scripts/raw/ef63bb30a18bb01865c52ce3985e7196fdf57a02/Pacchetto/file1.lua</source>
+        <source main="main" file="file2.lua">https://github.com/mattia-marini/Prova-scripts/raw/ef63bb30a18bb01865c52ce3985e7196fdf57a02/Pacchetto/file2.lua</source>
       </version>
     </reapack>
   </category>
